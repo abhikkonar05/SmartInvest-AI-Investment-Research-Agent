@@ -8,7 +8,7 @@ The frontend uses **Next.js and TypeScript** with a dark, dashboard-focused inte
 
 I preferred showing real product workflows and generated research output over adding fabricated testimonials, customer counts, or company logos. This keeps the page aligned with the assignment's emphasis on honest product presentation.
 
-2. One trade-off made under the time limit
+2. One trade-off you made under the time limit, and what you’d do with a real week
 
 I prioritized **the core research experience, dashboard UI, responsive layout, and product interactions** instead of adding a large number of animations and marketing sections.
 
@@ -16,7 +16,7 @@ The existing product already contains several complex features, including multi-
 
 With a full additional week, I would improve accessibility testing, add more detailed responsive states, refine loading/error states, and further polish the landing-page storytelling and micro-interactions.
 
-3. Where I used AI tools and what I verified
+3. Where did you use AI tools, and what did you personally verify or change afterward?
 
 I used AI tools as development assistance for brainstorming, code structure, UI ideas, debugging, and improving parts of the implementation. AI was not treated as a replacement for understanding the application.
 
